@@ -8,3 +8,6 @@ Pojo MVCC : https://github.com/aidanmorgan/pojo-mvcc
 
 Transactional API
 http://tephra.incubator.apache.org/apidocs-0.15.0-incubating/index.html
+
+Blogs
+https://datalorax.wordpress.com/2014/09/29/temporal-versioning-in-coherence/
